@@ -1,4 +1,4 @@
-MAVi Unreal
+MAVi - Unreal Version
 ___________________________________________________________________
 Movement Aesthetic Visualization Tool 
 
