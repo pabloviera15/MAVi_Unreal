@@ -1,6 +1,19 @@
-MAVi - Movement Aesthetic Visualization
-Movement Aesthetic Visualization Tool Implemented by Processing
+MAVi
+___________________________________________________________________
+Movement Aesthetic Visualization Tool 
+
+Implemented by Pablo Cardenas powered by Unreal Engine
+
+Unreal Engine Version Used 4.27
+
+________________________________________________________________________________________
+
+This project was inspired by MAVi (Processing Version)
+https://github.com/mysunnytime/MAVi
 
 Movement data is fascinating to data artists for its richness of expression and great potential. We explore this kind of data, for the sake of generating video sequences, and create MAVi, a new tool for video creation that allow movement data visualization, real-time manipulation, and recording.
 
-Processing Version Used: 2.2.1 Paste the libraries in here: "...\Documents\Processing\libraries"
+Special thanks to the authors of MAVi (Processing Version):
+https://github.com/mysunnytime
+https://github.com/CalePlut
+https://github.com/luciasep
