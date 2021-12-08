@@ -2,11 +2,9 @@ MAVi - Unreal Version
 ___________________________________________________________________
 Movement Aesthetic Visualization Tool 
 
-Implemented by Pablo Cardenas powered by Unreal Engine
+Implemented by Pablo Cardenas powered by Unreal Engine 4.27
 
-_____________________________________________________________________________
-
-Unreal Engine Version Used 4.27
+MOCAP data retargeted from MoDa : http://movehub.omid.al/groovedb/#
 
 ________________________________________________________________________________________
 
