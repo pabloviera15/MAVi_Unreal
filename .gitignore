@@ -54,6 +54,8 @@ Temporary Items
 *.pdb
 *.DS_Store
 
+Content\Levels\MAVi_FireDancer_BuiltData.uasset
+
 #folders
 Packaged
 Intermediate
