@@ -4,7 +4,7 @@ Movement Aesthetic Visualization Tool
 
 Implemented by Pablo Cardenas powered by Unreal Engine 4.27
 
-MOCAP data retargeted from MoDa : http://movehub.omid.al/groovedb/#
+MOCAP data retargeted from MoDa : http://movehub.omid.al/groovedb/# 
 
 ________________________________________________________________________________________
 
